@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54" started-at="2022-05-28T21:50:28 IST" finished-at="2022-05-28T21:50:28 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54" started-at="2022-05-28T21:50:28 IST" finished-at="2022-05-28T21:50:28 IST">
+      <class name="pkg.TC1">
+        <test-method status="PASS" signature="test()[pri:0, instance:pkg.TC1@3224f60b]" name="test" duration-ms="10" started-at="2022-05-28T21:50:28 IST" finished-at="2022-05-28T21:50:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- pkg.TC1 -->
+      <class name="pkg.TC2">
+        <test-method status="PASS" signature="testing()[pri:0, instance:pkg.TC2@5e853265]" name="testing" duration-ms="2" started-at="2022-05-28T21:50:28 IST" finished-at="2022-05-28T21:50:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- pkg.TC2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
